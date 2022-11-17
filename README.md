@@ -4,7 +4,7 @@
 
 ### Dunkelblau
 
-<div style="background-color:#142f4e;width:100px;height:50px;"></div>
+<div style="background-color:#142f4e;width:100px;height:50px;margin-bottom:1em"></div>
 
 
 ```txt
