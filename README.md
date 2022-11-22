@@ -4,27 +4,24 @@
 
 ### Dunkelblau
 
-<div style="background-color:#142f4e;width:100px;height:50px;margin-bottom:1em;"></div>
+<div style="background-color:#152f4e;width:100px;height:50px;margin-bottom:1em;"></div>
 
 
 ```txt
-#142f4e
+#152f4e
 ```
 ```txt
-rgb(20,47,78)
-```
-```txt
-hsb(212°,74%,31%)
+rgb(21,47,78)
 ```
 
 ### Blau
-<div style="background-color:#00a1e3;width:100px;height:50px;margin-bottom:1em;"></div>
+<div style="background-color:#009ee0;width:100px;height:50px;margin-bottom:1em;"></div>
 
 ```txt
-#00a1e3
+#009ee0
 ```
 ```txt
-rgb(0,161,227)
+rgb(0,158,224)
 ```
 ```txt
 hsb(197° 100% 89%)
@@ -73,16 +70,13 @@ hsb(197° 18% 98%)
 
 ### Beige
 
-<div style="background-color:#e1d6bc;width:100px;height:50px;margin-bottom:1em;"></div>
+<div style="background-color:#e0d5bb;width:100px;height:50px;margin-bottom:1em;"></div>
 
 ```txt
-#e1d6bc
+#e0d5bb
 ```
 ```txt
-rgb(225,214,188)
-```
-```txt
-hsb(42°,16%,88%)
+rgb(224,213,187)
 ```
 
 ### Grau
